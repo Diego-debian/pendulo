@@ -15,7 +15,10 @@ Una aplicación interactiva que simula el movimiento de un péndulo simple con a
 - **Exportación de datos** para análisis posterior
 
 ## 📥 Instalación
-Puedes entrar a la carpeta dis y descargar directamente el ejecutable pendulo o puedes ompilarlo tu mismo de la siguiente manera
+Puedes entrar a la carpeta dis y descargar directamente el ejecutable pendulo 
+ ![Pendulo avanzado](img/pendulo_sa_install.gif)
+
+o puedes compilarlo tu mismo de la siguiente manera
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/Diego-debian/pendulo.git
