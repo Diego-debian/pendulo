@@ -70,9 +70,8 @@ Ahora solo abre el archivo pendulo y listo.
 
 ## 🧮 Física Implementada
    El simulador resuelve las ecuaciones diferenciales del   péndulo amortiguado:
-   $$
-   d²θ/dt² + (b/m)·dθ/dt + (g/L)·sin(θ) = 0
-   $$
+      d²θ/dt² + (b/m)·dθ/dt + (g/L)·sin(θ) = 0
+   
    Donde:
 
    θ: Ángulo del péndulo
