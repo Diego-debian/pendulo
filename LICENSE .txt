@@ -1,0 +1,36 @@
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+Copyright (C) 2025 Diego Parra
+
+Este programa es software libre: usted puede redistribuirlo y/o modificarlo
+bajo los términos de la GNU General Public License publicada por
+la Free Software Foundation, ya sea la versión 3 de la Licencia, o
+(a su elección) cualquier versión posterior.
+
+Este programa se distribuye con la esperanza de que sea útil,
+pero SIN NINGUNA GARANTÍA; incluso sin la garantía implícita de
+COMERCIALIZACIÓN o IDONEIDAD PARA UN PROPÓSITO PARTICULAR. Consulte la
+GNU General Public License para más detalles.
+
+Usted debería haber recibido una copia de la GNU General Public License
+junto con este programa. Si no es así, consulte <https://www.gnu.org/licenses/>.
+
+Simulador Avanzado de Péndulo con Amortiguamiento
+Copyright (C) 2025 Diego Parra <profediegoparra01@gmail.com>
+
+Este programa simula el movimiento de un péndulo simple con amortiguamiento,
+mostrando visualizaciones en tiempo real del movimiento, ángulo y energías del sistema.
+
+Condiciones de distribución:
+1. Debe incluirse una copia completa de esta licencia con cualquier distribución.
+2. El código fuente completo debe estar disponible para cualquier trabajo derivado.
+3. Las obras derivadas deben usar la misma licencia GPL-3.0.
+4. Debe incluirse el aviso de copyright original.
+
+Para más información sobre cómo aplicar y seguir los términos de la GNU GPL, consulte:
+https://www.gnu.org/licenses/gpl-howto.html
+
+Para cualquier pregunta sobre el uso de este software bajo la GPL, puede contactar al autor:
+Diego Parra - profediegoparra01@gmail.com
+GitHub: https://github.com/Diego-debian
